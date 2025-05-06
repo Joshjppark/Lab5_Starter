@@ -3,3 +3,7 @@
 
 1. no, since this involved many backend processes that makes it very complicated to isolate individual programmed components
 2. yes, since this is a very straightforward logical component of the program and can be easily isolated in testing
+
+
+https://joshjppark.github.io/Lab5_Starter/expose.html
+https://joshjppark.github.io/Lab5_Starter/explore.html
